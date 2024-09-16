@@ -10,6 +10,7 @@
                 "@version": 1.1,
                 "id": "@id",
                 "licenseNumber": "schema:Text",
+                "name": "schema:Text",
                 "vehicleCategory": "schema:Text",
                 "issuingAuthority": "schema:Text",
                 "validFrom": "schema:Date",
