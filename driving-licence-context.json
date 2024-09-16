@@ -5,7 +5,7 @@
         "id": "@id",
         "schema": "https://schema.org/",
         "DrivingLicenceCredential": {
-            "@id": "https://sunbirdrc2.github.io/context-files/driving-licence-context.json#DrivingLicenceCredential",
+            "@id": "https://sunbirdrc2.github.io/driving-license-context/driving-licence-context.json#DrivingLicenceCredential",
             "@context": {
                 "@version": 1.1,
                 "id": "@id",
